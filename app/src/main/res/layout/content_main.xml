@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:showIn="@layout/app_bar_main">
+
+    <fragment
+        android:id="@+id/nav_host_fragment_content_main"
+        android:name="androidx.navigation.fragment.NavHostFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="8dp"
+        app:defaultNavHost="true"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:navGraph="@navigation/mobile_navigation" />
+
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="597dp"
+        android:layout_height="799dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/sundar" />
+
+    <ImageButton
+        android:id="@+id/imageButton6"
+        android:layout_width="133dp"
+        android:layout_height="135dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.855"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.525"
+        app:srcCompat="@drawable/books" />
+
+    <ImageButton
+        android:id="@+id/imageButton7"
+        android:layout_width="133dp"
+        android:layout_height="135dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.856"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageButton6"
+        app:layout_constraintVertical_bias="0.256"
+        app:srcCompat="@drawable/more" />
+
+    <ImageButton
+        android:id="@+id/imageButton2"
+        android:layout_width="133dp"
+        android:layout_height="138dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/imageButton6"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.528"
+        app:srcCompat="@drawable/electronics" />
+
+    <ImageButton
+        android:id="@+id/imageButton4"
+        android:layout_width="133dp"
+        android:layout_height="135dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/imageButton7"
+        app:layout_constraintHorizontal_bias="0.58"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageButton2"
+        app:layout_constraintVertical_bias="0.237"
+        app:srcCompat="@drawable/mecha" />
+
+    <ImageButton
+        android:id="@+id/imageButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toTopOf="@+id/imageButton2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/nav_host_fragment_content_main"
+        app:layout_constraintVertical_bias="0.317"
+        app:srcCompat="@drawable/imagerecognitionbar" />
+
+    <EditText
+        android:id="@+id/editTextTextPersonName"
+        android:layout_width="326dp"
+        android:layout_height="55dp"
+        android:background="@color/white"
+        android:ems="10"
+        android:hint="search"
+        android:inputType="textPersonName"
+        app:layout_constraintBottom_toBottomOf="@+id/nav_host_fragment_content_main"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.494"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.128" />
+
+    <ImageButton
+        android:id="@+id/imageButton9"
+        android:layout_width="61dp"
+        android:layout_height="56dp"
+        android:background="@color/teal_700"
+
+        app:layout_constraintBottom_toTopOf="@+id/imageButton6"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.852"
+        app:layout_constraintStart_toStartOf="@+id/imageButton"
+        app:layout_constraintTop_toTopOf="@+id/imageButton"
+        app:layout_constraintVertical_bias="0.093"
+        app:srcCompat="@android:drawable/ic_menu_search" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "159866560066",
+    "project_id": "keznel",
+    "storage_bucket": "keznel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159866560066:android:43ee3551fa31b6dde997db",
+        "android_client_info": {
+          "package_name": "com.example.keznel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159866560066-9d4i619qboa7a4lp0mnejha4anprd3d3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcOqQpDqv0xt3KCr-Ea04KUYz8ceScwNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159866560066-9d4i619qboa7a4lp0mnejha4anprd3d3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

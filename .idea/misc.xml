@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Yash U Hegde/Documents/GitHub/keznel2/keznel2/app/src/main/res/drawable-v21/ic_menu_camera.xml" value="0.23697916666666666" />
+        <entry key="..\:/Users/Yash U Hegde/Documents/GitHub/keznel2/keznel2/app/src/main/res/drawable/ic_baseline_add_a_photo_24.xml" value="0.11614583333333334" />
+        <entry key="..\:/Users/Yash U Hegde/Documents/GitHub/keznel2/keznel2/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/Yash U Hegde/Documents/GitHub/keznel2/keznel2/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/Yash U Hegde/Documents/GitHub/keznel2/keznel2/app/src/main/res/layout-w936dp/activity_login.xml" value="0.165625" />
+        <entry key="..\:/Users/Yash U Hegde/Documents/GitHub/keznel2/keznel2/app/src/main/res/layout/activity_getstarted.xml" value="0.176" />
+        <entry key="..\:/Users/Yash U Hegde/Documents/GitHub/keznel2/keznel2/app/src/main/res/layout/activity_inputdetails.xml" value="0.264" />
+        <entry key="..\:/Users/Yash U Hegde/Documents/GitHub/keznel2/keznel2/app/src/main/res/layout/activity_inputdetails2.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/Yash U Hegde/Documents/GitHub/keznel2/keznel2/app/src/main/res/layout/activity_keznellogin.xml" value="0.1933876811594203" />
+        <entry key="..\:/Users/Yash U Hegde/Documents/GitHub/keznel2/keznel2/app/src/main/res/layout/activity_lend.xml" value="0.2" />
+        <entry key="..\:/Users/Yash U Hegde/Documents/GitHub/keznel2/keznel2/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/Yash U Hegde/Documents/GitHub/keznel2/keznel2/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Yash U Hegde/Documents/GitHub/keznel2/keznel2/app/src/main/res/layout/activity_main2.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/Yash U Hegde/Documents/GitHub/keznel2/keznel2/app/src/main/res/layout/activity_main3.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/Yash U Hegde/Documents/GitHub/keznel2/keznel2/app/src/main/res/layout/activity_main4.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/Yash U Hegde/Documents/GitHub/keznel2/keznel2/app/src/main/res/layout/activity_results.xml" value="0.2" />
+        <entry key="..\:/Users/Yash U Hegde/Documents/GitHub/keznel2/keznel2/app/src/main/res/layout/activity_sawo.xml" value="0.264" />
+        <entry key="..\:/Users/Yash U Hegde/Documents/GitHub/keznel2/keznel2/app/src/main/res/layout/activity_splash.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/Yash U Hegde/Documents/GitHub/keznel2/keznel2/app/src/main/res/layout/activity_splashscreen.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/Yash U Hegde/Documents/GitHub/keznel2/keznel2/app/src/main/res/layout/activity_web.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/Yash U Hegde/Documents/GitHub/keznel2/keznel2/app/src/main/res/layout/activity_wp.xml" value="0.22239583333333332" />
+        <entry key="..\:/Users/Yash U Hegde/Documents/GitHub/keznel2/keznel2/app/src/main/res/layout/app_bar_main.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/Yash U Hegde/Documents/GitHub/keznel2/keznel2/app/src/main/res/layout/content_inputdetails.xml" value="0.4" />
+        <entry key="..\:/Users/Yash U Hegde/Documents/GitHub/keznel2/keznel2/app/src/main/res/layout/content_main.xml" value="0.176" />
+        <entry key="..\:/Users/Yash U Hegde/Documents/GitHub/keznel2/keznel2/app/src/main/res/layout/content_splash.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/Yash U Hegde/Documents/GitHub/keznel2/keznel2/app/src/main/res/layout/fragment_borrowing_page.xml" value="0.264" />
+        <entry key="..\:/Users/Yash U Hegde/Documents/GitHub/keznel2/keznel2/app/src/main/res/layout/fragment_first.xml" value="0.264" />
+        <entry key="..\:/Users/Yash U Hegde/Documents/GitHub/keznel2/keznel2/app/src/main/res/layout/fragment_first2.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/Yash U Hegde/Documents/GitHub/keznel2/keznel2/app/src/main/res/layout/fragment_gallery.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/Yash U Hegde/Documents/GitHub/keznel2/keznel2/app/src/main/res/layout/fragment_home.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/Yash U Hegde/Documents/GitHub/keznel2/keznel2/app/src/main/res/layout/fragment_second.xml" value="0.176" />
+        <entry key="..\:/Users/Yash U Hegde/Documents/GitHub/keznel2/keznel2/app/src/main/res/layout/fragment_second2.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/Yash U Hegde/Documents/GitHub/keznel2/keznel2/app/src/main/res/layout/fragment_slideshow.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/Yash U Hegde/Documents/GitHub/keznel2/keznel2/app/src/main/res/layout/nav_header_main.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/Yash U Hegde/Documents/GitHub/keznel2/keznel2/app/src/main/res/menu/activity_main_drawer.xml" value="0.536" />
+        <entry key="..\:/Users/Yash U Hegde/Documents/GitHub/keznel2/keznel2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/Yash U Hegde/Documents/GitHub/keznel2/keznel2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2526041666666667" />
+        <entry key="..\:/keznel2/app/src/main/res/drawable/ic_baseline_add_a_photo_24.xml" value="0.136" />
+        <entry key="..\:/keznel2/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/keznel2/app/src/main/res/layout/activity_main2.xml" value="0.1793478260869565" />
+        <entry key="..\:/keznel2/app/src/main/res/layout/activity_main3.xml" value="0.15715579710144928" />
+        <entry key="..\:/keznel2/app/src/main/res/layout/activity_main4.xml" value="0.15715579710144928" />
+        <entry key="..\:/keznel2/app/src/main/res/layout/content_main.xml" value="0.264" />
+        <entry key="..\:/keznel2/app/src/main/res/layout/nav_header_main.xml" value="0.4" />
+        <entry key="..\:/keznel2/app/src/main/res/menu/activity_main_drawer.xml" value="0.536" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
