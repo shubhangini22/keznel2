@@ -9,7 +9,7 @@ This not only solves the money problem but also the problem of wasting resources
 
 [Here](https://youtu.be/stVspqjL3Zg) you can look up the demo video.
 
-##[Here](https://www.figma.com/file/PFBz2n3NFdj0qLGmp8Oqrm/KEZNEL-app-proto?node-id=0%3A1) you can find the complete UI workflow of the app made on Figma.
+[Here](https://www.figma.com/file/PFBz2n3NFdj0qLGmp8Oqrm/KEZNEL-app-proto?node-id=0%3A1) you can find the complete UI workflow of the app made on Figma.
 
 ![86c4798f-4e38-4394-9896-86a637e89d9c](https://user-images.githubusercontent.com/88293763/174813030-07794373-4f21-4599-b030-1e8014f58d4c.png)
 ![1dafe32d-9dac-4dd9-8a5c-6f3ed08c100f](https://user-images.githubusercontent.com/88293763/174813052-13128f17-a2bc-4252-99c3-d078c4d3e3e0.png)
