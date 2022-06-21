@@ -7,7 +7,7 @@ A student-run-student-only rent app for books, electrical, electronics, mechanic
 Hobbies, interests and skill-building requires resources. And resources require money. So, students, instead of asking the money from their parents or working part-time jobs to buy expensive project parts and kits, books, art supplies, music instruments or more from online shopping websites, how about building an interconnected student-to-student community which shares by borrowing and lending resources at mutually agreed rate of cost for a fixed amount of time be as a solution?
 This not only solves the money problem but also the problem of wasting resources. We, as students, often buy things to learn new things on a whim with no thought, like maybe buying a 3000Rs. legit Arduino Project Kit, but after a couple of weeks of tinkering, that kit gathers dust in the corner. The same goes for maybe learning to play a guitar. Many start focused but their sore index fingers from holding the guitar strings make them ditch guitar practicing for good gathering dust. How about lending it to someone who might actually give it a shot? These all questions have one answer. KEZNEL. Apart from these, to be specific, KEZNEL would be also of great use during college techfests, design competitions etc. for example maybe like borrowing a 3D printer from your peers around for a short while at 1/10th the cost of an actual 3D printer.
 
-##[Demo video](https://youtu.be/stVspqjL3Zg)
+[Here](https://youtu.be/stVspqjL3Zg) you can look up the demo video.
 
 ##[Here](https://www.figma.com/file/PFBz2n3NFdj0qLGmp8Oqrm/KEZNEL-app-proto?node-id=0%3A1) you can find the complete UI workflow of the app made on Figma.
 
