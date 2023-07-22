@@ -1,7 +1,8 @@
 # KEZNEL app
 A student-run-student-only rent app for books, electrical, electronics, mechanical DIY project parts, instruments, art supplies, rides and more right around you.
 
-![KEZNELbigwhitelogo1](https://user-images.githubusercontent.com/88293763/174810273-3924ac51-330a-47ab-a705-86fe2e13f781.png)
+![KEZNELnewlogo](https://user-images.githubusercontent.com/88293763/176849264-e8107458-efa5-4d1c-ae43-c6c34d9722da.png)
+
 
 ## The problem KEZNEL app solves
 Hobbies, interests and skill-building requires resources. And resources require money. So, students, instead of asking the money from their parents or working part-time jobs to buy expensive project parts and kits, books, art supplies, music instruments or more from online shopping websites, how about building an interconnected student-to-student community which shares by borrowing and lending resources at mutually agreed rate of cost for a fixed amount of time be as a solution?
